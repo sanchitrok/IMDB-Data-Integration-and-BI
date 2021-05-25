@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_3i64gDTeEeuKhur_dC9yVQ">
+    <contextParameter comment="" name="IMDb_Schema" prompt="IMDb_Schema?" promptNeeded="false" type="id_String" value="dbo" xmi:id="_3i64gTTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Server" prompt="IMDb_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_3i64gjTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Password" prompt="IMDb_Password?" promptNeeded="false" type="id_Password" value="yhL9b0r4NI9i6vn1siX+Kg==" xmi:id="_3i64gzTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Login" prompt="IMDb_Login?" promptNeeded="false" type="id_String" value="sa" xmi:id="_3i64hDTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_AdditionalParams" prompt="IMDb_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_3i64hTTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Port" prompt="IMDb_Port?" promptNeeded="false" type="id_String" value="1433" xmi:id="_3i64hjTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Database" prompt="IMDb_Database?" promptNeeded="false" type="id_String" value="imdb_dev" xmi:id="_3i64hzTeEeuKhur_dC9yVQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Dev" xmi:id="_3i64iDTeEeuKhur_dC9yVQ">
+    <contextParameter comment="" name="IMDb_Schema" prompt="IMDb_Schema?" promptNeeded="false" type="id_String" value="dbo" xmi:id="_3i64iTTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Server" prompt="IMDb_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_3i64ijTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Password" prompt="IMDb_Password?" promptNeeded="false" type="id_Password" value="yhL9b0r4NI9i6vn1siX+Kg==" xmi:id="_3i64izTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Login" prompt="IMDb_Login?" promptNeeded="false" type="id_String" value="sa" xmi:id="_3i64jDTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_AdditionalParams" prompt="IMDb_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_3i64jTTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Port" prompt="IMDb_Port?" promptNeeded="false" type="id_String" value="1433" xmi:id="_3i64jjTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Database" prompt="IMDb_Database?" promptNeeded="false" type="id_String" value="imdb_dev" xmi:id="_3i64jzTeEeuKhur_dC9yVQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Tst" xmi:id="_3i64kDTeEeuKhur_dC9yVQ">
+    <contextParameter comment="" name="IMDb_Schema" prompt="IMDb_Schema?" promptNeeded="false" type="id_String" value="dbo" xmi:id="_3i64kTTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Server" prompt="IMDb_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_3i64kjTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Password" prompt="IMDb_Password?" promptNeeded="false" type="id_Password" value="yhL9b0r4NI9i6vn1siX+Kg==" xmi:id="_3i64kzTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Login" prompt="IMDb_Login?" promptNeeded="false" type="id_String" value="sa" xmi:id="_3i64lDTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_AdditionalParams" prompt="IMDb_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_3i64lTTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Port" prompt="IMDb_Port?" promptNeeded="false" type="id_String" value="1433" xmi:id="_3i64ljTeEeuKhur_dC9yVQ"/>
+    <contextParameter comment="" name="IMDb_Database" prompt="IMDb_Database?" promptNeeded="false" type="id_String" value="imdb_tst" xmi:id="_3i64lzTeEeuKhur_dC9yVQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_1a08cfd3-53d5-40bc-9e6c-10724368832c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>mY0PMj1cpNyTXlnci4af22ffbJUyK/fBh28Gt9obZUWh0EuFmgCGpvQxE++Ao2Q34Vzt9iaNbMmi
+5cJ79FJ72w==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_d5aa3a45-7a2c-4d7e-93c5-f7ec3b966cab"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Vxveo96wwwk0dDIdVh6Q2w9xCcPj5s6a47ZMfvbwUdxY1q7xnQUSZtjL6gbKLtOpXF1NcrcHCa2C
+6xDtIwX5bw==</DigestValue></Reference></SignedInfo><SignatureValue>jJe+Emxl/c6xEM2SIR8JU3RokfnWrQOO2cZ3He6nm3LYPT0b2mCWat9Dy4xfaSRTLgalTvXWXOtN
++mv9+pWuQ2N+FPGRujQ/mVayAiPHwmVD3CDDV8SJ4oRv9+9XHquV+8iKQ7G7N6tIdH8LvzAqGoPo
+tpcVcSzr+qXYTSGzwCnbIBNPnO/R0h2nf3Cq4UYomwnNfbcFMZJP1plPMTqbIgee9+E/8dWp9yLu
+k/A+MBSX4iJVuXd1Ct6c3L0Y1FtzNfKiuyHppTNstoJwiNHEDEEzGZEvMdQznrob+89oSuMMXffe
+AHxUtIj+s7qYdFmir/Yq07FpIEShuLIqisuMvg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
+RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
+LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
+VQQIDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1ImRDEpMCcGA1UEAwwg
+RGVmYXVsdCBjb2RlLXNpZ25pbmcgY2VydGlmaWNhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiCz1II/o6hDUWu/ygxTCT2o/fYxVzPW23AoONQC/Vuiqh0COyLIgaMTjBPmQdTQFq
+rmM5tD64gi4TEQF+Z3iYt3daLdQUfaW9SzaMlY+XVNz5xnMBVDuiSHJSFE9lKnhgbKAHvOeoJo46
+UgWwb1za0WpRckDtjKcntwEK1orZCgrcIo1nDvFXyB5n0KfpLyktEOa0bSHde50MPbvQeB66XlEb
+lhjfs5S9WnAUja9RgqdwqZoI0ss+x/pjkQygDT8f17MktM21HOtg09lJlhMGJckhgD7jUF5tfYGM
+sv/O27g5CToFhxOnutDtsrDw7AkEQIml8KJp97bQLAFlLnh1AgMBAAGjge0wgeowHQYDVR0OBBYE
+FFzdy6ZfpUX8JwkM/SUrqkwLNqWAMB8GA1UdIwQYMBaAFOd9C3L8tYGZxoAr2SzsgnMytaj3MAsG
+A1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAJBgNVHRMEAjAAMHsGCWCGSAGG+EIBDQRu
+FmxEZWZhdWx0IHRoaXJkIHBhcnR5IGNvZGUtc2lnbmluZyBjZXJ0aWZpY2F0ZS4gTm8gY29tbWl0
+bWVudCBpcyBtYWRlIG9uIHRoZSBjb250ZW50IHNpZ25lZCBieSB0aGUgdGhpcmQgcGFydHkwDQYJ
+KoZIhvcNAQELBQADggIBAKzYdnzoFgrRtDLSSzWtwuOrGo5+1RPoDHm/1dlbVnB7oZzUwfRGwZT5
+ser0V7OZyt9wWR8iQ2ka30fHWrNAosNtlIkF88s5YZw7OOIMxR+qYA99BnWLa79DZVIuukI2f5qJ
+Cr9nw6Oygo8CWeNMWhtXcvV4gqROhb2QMBrvWBw9QvNK1XMdtPShfWiXwyPzzRKgwqrN2meXtOY3
+S+MXu6u+RUD9EYeElp9M+9Yp+zRySl5/s+0sbvo7qz369dlsw8XhKXT+s4YQQe3Sx14Kg3SDFXKn
+QcVgycaZMOw4YUxOeP2hKOHnNuOMORfu3qlYkN/0RMGjn6r4PU4+yL276TiWI5b8J06y4leng2as
+r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
+EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
+BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
+6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_d5aa3a45-7a2c-4d7e-93c5-f7ec3b966cab" Target="#_1a08cfd3-53d5-40bc-9e6c-10724368832c"><Timestamp>2020-12-03 00:22:50</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
