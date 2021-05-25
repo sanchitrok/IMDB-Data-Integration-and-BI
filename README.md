@@ -13,20 +13,26 @@ Description Steps
 Talends Jobs Sample
 
 Staging Table Sample
+
+
 ![image](https://user-images.githubusercontent.com/61126881/119438694-5fc24800-bce6-11eb-91e7-2a7df331ba36.png)
+
 
 ![image](https://user-images.githubusercontent.com/61126881/119438708-65b82900-bce6-11eb-81bd-e56d75cc2b86.png)
 
-![image](https://user-images.githubusercontent.com/61126881/119438720-6d77cd80-bce6-11eb-95c6-b966eefd1651.png)
 
 
 Dimensional Table Sample
-![image](https://user-images.githubusercontent.com/61126881/119438646-4d480e80-bce6-11eb-8f89-9778e23ead52.png)
 
-![image](https://user-images.githubusercontent.com/61126881/119438664-5507b300-bce6-11eb-9af6-4a30ff5f94d1.png)
+![image](https://user-images.githubusercontent.com/61126881/119438720-6d77cd80-bce6-11eb-95c6-b966eefd1651.png)
+
+![image](https://user-images.githubusercontent.com/61126881/119438646-4d480e80-bce6-11eb-8f89-9778e23ead52.png)
 
 
 Fact Table Sample
+
+![image](https://user-images.githubusercontent.com/61126881/119438664-5507b300-bce6-11eb-9af6-4a30ff5f94d1.png)
+
 ![image](https://user-images.githubusercontent.com/61126881/119438588-2ee21300-bce6-11eb-957a-3c9418446b84.png)
 
 Tableau Visualizations
