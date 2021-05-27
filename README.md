@@ -1,5 +1,6 @@
 # IMDB-Data-Integration-and-BI
 Description Steps
+
 1: Designed dimensional and fact tables
 
 2: Created Staging tables using SQL scripts on Microsoft SQl Server
